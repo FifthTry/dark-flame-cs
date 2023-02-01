@@ -8,7 +8,7 @@ minimize: true
 
 
 -- cd.color-display-one:
-color: $inherited.colors
+colors: $main
 minimize: true
 
 
@@ -92,14 +92,14 @@ light: #FFFFFF
 dark: #000000
 
 -- ftd.color overlay-:
-light: 000000
-dark: 000000
+light: #000000
+dark: #000000
 
 -- ftd.color code-:
 light: #FFFFFF
 dark: #111111
 
--- ftd.background.solids background-:
+-- ftd.background-colors background-:
 base: $base-
 step-1: $step-1-
 step-2: $step-2-
@@ -143,8 +143,8 @@ light: #BF6A2A
 dark: #BF6A2A
 
 -- ftd.color cta-primary-disabled-:
-light: FAD9C0
-dark: FAD9C0
+light: #FAD9C0
+dark: #FAD9C0
 
 -- ftd.color cta-primary-focused-:
 light: #B36328
@@ -181,8 +181,8 @@ light: #BCBAB7
 dark: #BCBAB7
 
 -- ftd.color cta-secondary-disabled-:
-light: F9F8F7
-dark: F9F8F7
+light: #F9F8F7
+dark: #F9F8F7
 
 -- ftd.color cta-secondary-focused-:
 light: #B0AEAC
@@ -434,14 +434,3 @@ success: $success-btb-
 info: $info-btb-
 warning: $warning-btb-
 custom: $custom-
-
-
--- color-data color:
-main: $main
-alt: $main
-primary: $main
-secondary: $main
-tertiary: $main
-surface: $main
-surface-alt: $main
-glass: $main
