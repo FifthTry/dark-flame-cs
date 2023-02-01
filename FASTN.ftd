@@ -1,6 +1,6 @@
--- import: fpm
+-- import: fastn
 
--- fpm.package: fifthtry.github.io/fastn-cs
+-- fastn.package: fifthtry.github.io/fastn-cs
 download-base-url: https://raw.githubusercontent.com/fifthtry/fastn-cs/main
 
--- fpm.dependency: fifthtry.github.io/color-doc as cd
+-- fastn.dependency: fifthtry.github.io/color-doc as cd
