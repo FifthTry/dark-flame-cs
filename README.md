@@ -8,3 +8,4 @@ For light mode, the package features a classic white as the primary color and th
 
 Whether you're designing a website, creating an application, or developing a brand, the Dark Flame Color Scheme Package has got you covered. With its versatile and stylish palette, you can create a beautiful and captivating design that is sure to engage and impress your audience.
 
+<img src="dark-flame.png"  width="30%" height="60%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="dark-flame-dark.png"  width="30%" height="60%">
