@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/fastn-cs
-download-base-url: https://raw.githubusercontent.com/fifthtry/fastn-cs/main
+-- fastn.package: fifthtry.github.io/dark-flame-cs
+download-base-url: https://raw.githubusercontent.com/fifthtry/dark-flame-cs/main
 
 -- fastn.dependency: fifthtry.github.io/color-doc as cd
 
