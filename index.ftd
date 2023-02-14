@@ -298,7 +298,7 @@ tertiary: $accent-tertiary-
 
 -- ftd.color error-base-:
 light: #F9E4E1
-dark: #F9E4E1
+dark: #4f2a25c9
 
 -- ftd.color error-text-:
 light: #D84836
@@ -332,7 +332,7 @@ border: $success-border-
 
 -- ftd.color info-base-:
 light: #DAE7FB
-dark: #DAE7FB
+dark: #233a5dc7
 
 -- ftd.color info-text-:
 light: #5290EC
@@ -349,7 +349,7 @@ border: $info-border-
 
 -- ftd.color warning-base-:
 light: #FDF7F1
-dark: #FDF7F1
+dark: #3b2c1ee6
 
 -- ftd.color warning-text-:
 light: #E78B3E
