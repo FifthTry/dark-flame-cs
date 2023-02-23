@@ -1,12 +1,18 @@
 -- import: fifthtry.github.io/color-doc/color-ui as cu
 -- import: fifthtry.github.io/dark-flame-cs/colors
 -- import: fastn
+-- import: fastn/processors as pr
 -- import: cd
 
+-- string figma-json:
+$processor$: pr.figma-cs-token
+variable: $main
+name: dark-flame-cs
 
 -- cd.color-display-one:
 colors: $main
 minimize: true
+figma-json: $figma-json
 
 
 
