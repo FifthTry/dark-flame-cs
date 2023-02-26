@@ -234,11 +234,11 @@ border: $error-border-
 
 -- ftd.color success-base-:
 light: #DCEFE4
-dark: #DCEFE4
+dark: #033a1bb8
 
 -- ftd.color success-text-:
 light: #3E8D61
-dark: #3E8D61
+dark: #159f52
 
 -- ftd.color success-border-:
 light: #95D0AF
