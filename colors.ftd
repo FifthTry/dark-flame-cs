@@ -7,8 +7,8 @@ light: #FDFAF1
 dark: #111111
 
 -- ftd.color step-2-:
-light: #FFFFFF
-dark: #000000
+light: #fbf1d3
+dark: #2b2b2b
 
 -- ftd.color overlay-:
 light: #000000
