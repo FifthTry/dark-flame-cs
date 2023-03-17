@@ -15,8 +15,8 @@ light: #000000
 dark: #000000
 
 -- ftd.color code-:
-light: #f6f8fa
-dark: #161b22
+light: #f5f5f5
+dark: #21222c
 
 -- ftd.background-colors background-:
 base: $base-
