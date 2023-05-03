@@ -1,7 +1,11 @@
-
 .build/FASTN.ftd
 .packages/fifthtry.github.io/color-doc/color-ui.ftd
 .packages/fifthtry.github.io/color-doc/colordoc.ftd
 .packages/fifthtry.github.io/color-doc/FASTN.ftd
 .packages/fifthtry.github.io/color-doc/index.ftd
 .DS_Store
+
+.packages
+.build
+.DS_Store
+.idea
