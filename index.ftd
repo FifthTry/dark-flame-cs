@@ -190,11 +190,12 @@ link: https://fastn.com/figma-to-fastn-cs/
 
 -- color-scheme.body:
 
-Introducing a stunning new color-scheme inspired by one of the most
-unforgiving and captivating landscapes on Earth - the desert. This minimalist
-yet impactful design captures the essence of the desert's warm earthy tones,
-sandy beige hues, and striking pops of deep red and burnt orange, making it
-the perfect choice for creating a bold and exotic aesthetic in any space.
+The Dark Flame color scheme is a modern and bold package that
+offers a balanced combination of black and orange tones.
+In dark mode, it creates a mysterious yet fiery look, while in light mode,
+it conveys a warm and inviting feel. This package is perfect for various
+projects, including websites, applications, and branding, and can help
+you create captivating and engaging designs.
 
 -- cb.code: Figma tokens json
 lang: json
