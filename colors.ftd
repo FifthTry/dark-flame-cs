@@ -78,12 +78,12 @@ light: #512403
 dark: #512403
 
 -- ftd.color cta-primary-text-disabled-:
-light: #304655
-dark: #ffffff
+light: #f2a164
+dark: #f2a164
 
 -- ftd.color cta-primary-border-disabled-:
-light: #304655
-dark: #f1dac0
+light: #fad9c0
+dark: #fad9c0
 
 -- ftd.cta-colors cta-primary-:
 base: $cta-primary-base-
